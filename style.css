@@ -1,0 +1,130 @@
+h1, h2, h3, h4, h5, h6, h7, h8, h9, h10, h11, h12, h15 {
+    font-family:"Times New Roman";
+    font-size: 170%;
+    line-height: 2;
+    text-align: center;
+}
+
+p {
+    font-family: "Arial";
+    font-size: 150%;
+}
+
+li {
+    font-family: "Arial";
+    font-size: 120%
+}
+
+h1 {
+    font-size: 10;
+}
+
+h2 {
+    font-size: 160%
+}
+
+h6 {
+    color: #222;
+    font-weight: 600;
+    line-height: 2;
+    font-size: 22;
+}
+
+h7 {
+    font-size: 230%
+}
+
+h8 {
+    font-size: 230%
+}
+
+h9 {
+    font-size: 240%
+}
+
+h10 {
+    margin: inherit
+    color: #222;
+    font-weight: 600;
+    line-height: 2;
+    font-size: 400%;
+    top: 100px
+}
+
+h1 {
+    font-size: 550% 
+}
+
+h11 {
+    font-size: 240%
+}
+
+body {
+    display: block;
+    margin-left:  50px;
+    margin-right: 50px;
+}
+
+img {
+    max-height: 50%;
+    max-width: 50%;
+    
+}
+
+source {
+    position: relative;
+    left: 10px;
+}
+ 
+div {
+    font-size: 130%
+}
+div.videoGallery {
+    text-align: center;
+}
+div.gallery {
+    text-align: center;
+}
+h1, h2, h3, h4, h5, h6, h7, h8, h9 {
+    text-align: center
+}
+h10, h11 {
+    text-align: center;
+    font-family: "Times New Roman"
+}
+
+p {
+    text-indent: 20px; /* Отступ первой строки в пикселах */
+    line-height: 1.5
+   }
+
+h12 {
+    font-size: 240%;
+    text-align: center;
+}
+
+h13 {
+    font-size: 220%;
+    text-align: center;
+    font-family: "Times New Roman"
+}
+
+h1, h2, h3, h4, h7, h8, h9, h11, h12, h13, h14, h15 {
+  line-height: 3;
+}
+
+img {
+    line-height: 2;
+}
+
+h5 {
+    line-height: 1
+}
+
+li {
+    line-height: 2
+}
+
+h15 {
+   font-size: 230% 
+}
